@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hi 👋, I'm Varsha Telugu</h1>
 <h3 align="center">CS Graduate at The University of North Texas| Full Stack Java Developer| Software Engineer with Oracle Certified Java SE 8 Programmer| .Net Developer| Agile Testing</h3>
