@@ -23,17 +23,31 @@ Computer Science graduate student with 2+ years of experience as a Software Deve
 
 ## Projects
 
-### Project Title 1
+### Periodic Table Alexa Skill
 
-- **Description:** Brief description of the project and your role.
-- **Technologies used:** List relevant technologies (e.g., Java, SpringBoot, AWS).
+- **Description:** Implemented a cloud-based Alexa Skill for the Periodic Table using AWS Lambda. Provided detailed information on chemical elements through voice commands.
+- **Technologies used:** Amazon AWS Lambda, Alexa Skills Kit, Node.js, AWS CloudWatch.
 
-### Project Title 2
+### Data Storage and Analytics Web App
 
-- **Description:** Brief description of the project and your role.
-- **Technologies used:** List relevant technologies (e.g., Python, Django, PostgreSQL).
+- **Description:** Developed a comprehensive web application bridging government and school systems. Aggregated student data (attendance, scholarships, marks) and generated detailed reports at state and district levels.
+- **Technologies used:** ASP.NET Core, C#, HTML5, CSS, Bootstrap, SQL Server, Azure Cosmos DB.
 
-_(Add more projects as needed)_
+### User Authentication and Authorization
+
+- **Description:** Implemented a secure authentication system using ASP.NET Core Identity. Supported user registration, login, and role-based authorization.
+- **Technologies used:** ASP.NET Core Identity, C#, ASP.NET MVC, HTML5, CSS, SQL Server.
+
+### Childcare Center
+
+- **Description:** Developed a web application for childcare management. Implemented user authentication and data entry features for parents and guardians.
+- **Technologies used:** ASP.NET, ADO.NET, C#, HTML5, CSS, Bootstrap, MySQL, Azure Cosmos DB.
+
+### Automated Deployment and Monitoring System for AWS Environment
+
+- **Description:** Designed and deployed AWS infrastructure using Terraform. Integrated with Jenkins for CI/CD pipelines and orchestrated Docker containers on AWS ECS/EKS.
+- **Technologies used:** AWS, Terraform, Docker, Jenkins, AWS ECS/EKS, AWS IAM, AWS VPC, AWS CloudWatch.
+
 
 ## Professional Experience
 
