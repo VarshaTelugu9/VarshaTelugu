@@ -1,84 +1,29 @@
-# Varsha Telugu
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-- **Email:** varshatelugu9@gmail.com
-- **LinkedIn:** [Varsha Telugu](https://www.linkedin.com/in/varshatelugu/)
-- **LeetCode Profile:** [https://leetcode.com/u/Varsha_t/](https://leetcode.com/u/Varsha_t/)
-- **Location:** IL, United States
-
-## Summary
-
-Computer Science graduate student with 2+ years of experience as a Software Developer. Strong foundation in programming, algorithms, and data structures. Developed innovative software solutions, enhancing efficiency and achieving a 25% increase in application performance. Seeking dynamic opportunities in the computer science industry.
-
-## Education
-
-- **Master of Science in Computer Science**
-  - University of North Texas, Denton, TX
-  - August 2022 – May 2024
-  - CGPA: 3.7/4.0
-
-- **Bachelor of Technology in Computer Science**
-  - Keshav Memorial Institute of Technology, Hyderabad, India
-  - July 2016 – Sept 2020
-  - CGPA: 8.16/10.0
-
-## Projects
-
-### Periodic Table Alexa Skill
-
-- **Description:** Implemented a cloud-based Alexa Skill for the Periodic Table using AWS Lambda. Provided detailed information on chemical elements through voice commands.
-- **Technologies used:** Amazon AWS Lambda, Alexa Skills Kit, Node.js, AWS CloudWatch.
-
-### Data Storage and Analytics Web App
-
-- **Description:** Developed a comprehensive web application bridging government and school systems. Aggregated student data (attendance, scholarships, marks) and generated detailed reports at state and district levels.
-- **Technologies used:** ASP.NET Core, C#, HTML5, CSS, Bootstrap, SQL Server, Azure Cosmos DB.
-
-### User Authentication and Authorization
-
-- **Description:** Implemented a secure authentication system using ASP.NET Core Identity. Supported user registration, login, and role-based authorization.
-- **Technologies used:** ASP.NET Core Identity, C#, ASP.NET MVC, HTML5, CSS, SQL Server.
-
-### Childcare Center
-
-- **Description:** Developed a web application for childcare management. Implemented user authentication and data entry features for parents and guardians.
-- **Technologies used:** ASP.NET, ADO.NET, C#, HTML5, CSS, Bootstrap, MySQL, Azure Cosmos DB.
-
-### Automated Deployment and Monitoring System for AWS Environment
-
-- **Description:** Designed and deployed AWS infrastructure using Terraform. Integrated with Jenkins for CI/CD pipelines and orchestrated Docker containers on AWS ECS/EKS.
-- **Technologies used:** AWS, Terraform, Docker, Jenkins, AWS ECS/EKS, AWS IAM, AWS VPC, AWS CloudWatch.
+<h1 align="center">Hi 👋, I'm Varsha Telugu</h1>
+<h3 align="center">CS Graduate at The University of North Texas| Full Stack Java Developer| Software Engineer with Oracle Certified Java SE 8 Programmer| .Net Developer| Agile Testing</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
-## Professional Experience
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshatelugu9&label=Profile%20views&color=0e75b6&style=flat" alt="varshatelugu9" /> </p>
 
-### Associate Application Software Engineer
+- 🌱 I’m currently learning **SpringBoot, Hibernate, Kafka**
 
-- **Virtusa Consulting Services Pvt. Ltd**
-- **May 2020 – July 2022**
-- **India**
+- 💬 Ask me about **Java, C#, .NET, Azure**
 
-- Developed data-processing APIs that enhanced real-time client applications, boosting data retrieval speed by 40% using ASP .NET & C#.
-- Implemented end-to-end data pipelines on Microsoft Azure Data Factory, reducing processing time by 50%.
-- Created an AI/Machine Learning recommendation engine, improving user suggestions.
-- Managed web applications with C# and JavaScript, resulting in a 25% boost in user engagement.
-- Implemented CI/CD pipelines and deployment strategies using YAML.
+- 📫 How to reach me **varshatelugu9@gmail.com**
 
-## Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/varsha telugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsha telugu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/varsha_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varsha_t" height="30" width="40" /></a>
+</p>
 
-- **Design Skills:** Object-oriented design (OOD), Computer-Aided Design, SDLC, UML, ER Diagrams, Data Analytics, Data modeling & analysis.
-- **Programming Languages & Databases:** C, C++, C#, Python, Java, JavaScript, LINQ, Microsoft SQL, MongoDB, CosmosDB, Oracle, MySQL, GraphQL.
-- **Web Technologies:** HTML5, CSS3, React JS, Angular JS, Node JS, AJAX, XML, VXML, JSON, Bootstrap, Web Services.
-- **Frameworks:** Asp.Net MVC, .NET ASP Web Forms, .NET CORE, ADO. NET, REST APIs, SpringBoot, SOAP.
-- **Cloud Technologies:** Azure DevOps, CI/CD, AWS, Google Cloud Programming.
-- **Software Testing:** Selenium, NUnit, JUnit, TestNG, Automation Testing UiPath, Regression, Postman.
-- **Software Tools & Other Skills:** Tableau, Terraform, PowerBI, Microsoft Office, Figma, InVision, Axure RP, Sketch, Marvel, GitHub, SonarQube, JIRA, VScode, IIS, Linux, Windows, Jupyter Notebook, Matlab, Maven.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-## Certifications
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshatelugu9&show_icons=true&locale=en&layout=compact" alt="varshatelugu9" /></p>
 
-- Oracle Certified Associate, Java SE8 Programmer (OCA)
-- Certified Robotic Processes Automation (RPA) developer from UiPath
-- Certified Microsoft Azure developer Associate (AZ-204)
-- Certified Microsoft Azure Fundamentals (AZ-900)
-- SONET certified in Device programming through IOT using Alexa
-- Business English Certification (BEC) from Cambridge University at Vantage level
-- Certified in Soft computing, Joy of Computing Using Python, Social Networks, Machine Learning & IOT courses conducted by NPTEL.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshatelugu9&show_icons=true&locale=en" alt="varshatelugu9" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshatelugu9&" alt="varshatelugu9" /></p>
