@@ -2,6 +2,7 @@
 
 - **Email:** varshatelugu9@gmail.com
 - **LinkedIn:** [Varsha Telugu](https://www.linkedin.com/in/varshatelugu/)
+- **Leetcode:**https://leetcode.com/u/Varsha_t/
 - **Phone:** 940-843-0643
 - **Location:** IL, United States
 
